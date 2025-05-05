@@ -13,15 +13,11 @@
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.add-userbtn{
+    font-size: 20px;
+    border-radius: 10px;
+    padding: 20px 60px ;
+    border: none;
+    background-color: aliceblue;
+    cursor: pointer;
 }
