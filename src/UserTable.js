@@ -1,4 +1,4 @@
-import {Button, Paper, TableBody, TableCell, TableContainer, TableHead, TableRow } from '@mui/material'
+import {Button, Paper, Table, TableBody, TableCell, TableContainer, TableHead, TableRow } from '@mui/material'
 
 const UserTable = ({rows}) =>{
     <TableContainer component={Paper}>
