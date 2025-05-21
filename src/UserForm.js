@@ -11,11 +11,11 @@ const UserForm = ({addUser}) => {
             spacing = {2}
             sx={{
                 backgroundColor: '#ffffff',
-                marginBottom: '30px',
+                marginBottom: '30px' ,
                 display:'block',                
             }}
         >
-            <Grid item xs ={12}>
+            <Grid item xs =    {12}>
                 <Typography 
                     component= {'H1'} 
                     sx={{color: '#000000'}}
